@@ -134,6 +134,9 @@ body{
     padding: 10px 93px 350px 10px;
     font-size: 30px;
 }
+.ingreseTexto::placeholder{
+    font-size: 1.5rem;
+}
 .advertencia{
 
     color: aqua;
